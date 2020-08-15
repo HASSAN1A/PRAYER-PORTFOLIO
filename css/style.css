@@ -1,0 +1,36 @@
+p {
+    border: solid;
+    padding: 15px;
+    margin: 30px;
+}
+
+h1 {
+    background-color: palevioletred;
+}
+
+h2 {
+    background-color: blanchedalmond;
+}
+
+h3 {
+    background-color: cyan;
+
+}
+
+div {
+    color: blue;
+}
+
+ol {
+    color: blueviolet;
+}
+
+ul {
+    color: blueviolet;
+}
+.goldentext {
+    color: red;
+}
+span {
+    border: 1px;
+}
